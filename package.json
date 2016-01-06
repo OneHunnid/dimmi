@@ -1,0 +1,31 @@
+{
+  "name": "dimmi",
+  "version": "1.0.0",
+  "description": "A Simple Twitter Aggregator",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "less": "^2.5.3",
+    "nodemon": "^1.8.1",
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneHunnid/dimmi.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Aggregator"
+  ],
+  "author": "Chris Limbrick & Aaron Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OneHunnid/dimmi/issues"
+  },
+  "homepage": "https://github.com/OneHunnid/dimmi#readme"
+}
